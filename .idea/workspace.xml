@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="90c9e8a3-ac7d-4284-8048-325897ade8b2" name="Changes" comment="Bon Bus Voyage">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/java_webserver_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/java_webserver_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-webserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-webserver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/bus-back.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bus-back.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/bus-front.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/bus-front.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/solicitar.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/solicitar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/GerenciaLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/GerenciaLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Requisicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/Requisicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/Reserva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/Servidor.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/server/Requisicao.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/server/Service.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/server/Servidor.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/css/index.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BZaLhknULocveaVY8N9yqPfv7W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Course/Sistemas Operacionais/Trabalhos/Trabalho 1/java-webserver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Course\Sistemas Operacionais\Trabalhos\Trabalho 1\java-webserver" />
+      <recent name="C:\Users\gabri\OneDrive\Área de Trabalho\java-webserver\resources\img" />
+      <recent name="C:\Users\gabri\OneDrive\Área de Trabalho\Coursework Semester\JavaCourseWork\java-webserver\resources" />
+      <recent name="C:\Users\gabri\OneDrive\Área de Trabalho\Coursework Semester\JavaCourseWork\java-webserver\resources\css" />
+      <recent name="C:\Users\gabri\OneDrive\Área de Trabalho\Coursework Semester\JavaCourseWork\java-webserver\resources\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Course\Sistemas Operacionais\Trabalhos\Trabalho 1\java-webserver\src\main\" />
+      <recent name="C:\Users\gabri\OneDrive\Área de Trabalho\Coursework Semester\JavaCourseWork\java-webserver" />
+      <recent name="C:\Users\gabri\OneDrive\Área de Trabalho\Coursework Semester\JavaCourseWork\java-webserver\resources\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Servidor" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.server.Servidor" />
+      <module name="java-webserver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90c9e8a3-ac7d-4284-8048-325897ade8b2" name="Changes" comment="" />
+      <created>1657116008643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657116008643</updated>
+      <workItem from="1657116009967" duration="1615000" />
+      <workItem from="1657117744803" duration="92000" />
+      <workItem from="1657132064536" duration="3425000" />
+      <workItem from="1657886861670" duration="7254000" />
+      <workItem from="1657920384321" duration="1220000" />
+      <workItem from="1657921620195" duration="853000" />
+      <workItem from="1657923160535" duration="283000" />
+      <workItem from="1657923461647" duration="1082000" />
+      <workItem from="1658009383731" duration="10118000" />
+      <workItem from="1658065080032" duration="25768000" />
+      <workItem from="1658102010986" duration="387000" />
+      <workItem from="1658510584061" duration="623000" />
+      <workItem from="1659737812706" duration="320000" />
+      <workItem from="1659740975996" duration="609000" />
+      <workItem from="1659741690616" duration="443000" />
+      <workItem from="1659803195222" duration="617000" />
+      <workItem from="1659895617213" duration="4537000" />
+    </task>
+    <task id="LOCAL-00001" summary="Bon Bus Voyage">
+      <created>1659741852532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659741852532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bon Bus Voyage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bon Bus Voyage" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_webserver$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1658086335662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

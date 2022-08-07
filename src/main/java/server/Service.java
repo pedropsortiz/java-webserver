@@ -7,7 +7,7 @@ import java.util.Date;
 
 public class Service {
 
-    /*status code indicates that the request has been processed successfully on the server, and the
+    /*status code indicates that the request has been processed successfully on the main.java.server, and the
     * type of file that needs to be updated/
     /* and javascript type (text/javascript) + source () */
     public static String getHeader(){

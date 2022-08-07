@@ -12,7 +12,7 @@ public class Requisicao implements Runnable {
 
     public Requisicao(ServerSocket serverSocket, Integer success, Semaphore mutex, ArrayList<Reserva> reservas) throws IOException, InterruptedException {
 
-        // construtor de requisição exige um objeto, server socket, objeto integet, um objeto mutex, um array de objetos Reserva armazenados em reserva
+        // construtor de requisição exige um objeto, main.java.server socket, objeto integet, um objeto mutex, um array de objetos Reserva armazenados em reserva
         Socket socket = serverSocket.accept(); /* The accept() method  is used to accept the incoming request to the socket  */
         InputStream inputStream = socket.getInputStream(); /* returns an input stream for the given socket. */
 

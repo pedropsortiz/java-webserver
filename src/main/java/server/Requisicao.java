@@ -19,7 +19,7 @@ public class Requisicao implements Runnable {
         byte[] buffer = new byte[2048]; /*It stores a reference to an object containing a value*/
         int len = inputStream.read(buffer); /* guarda o comprimento do objeto socket lido pelo buffer  */
 
-        String requisicao = new String(buffer, 0, len);
+        String requisicao = new String(buffer, 0, len -1);
         /*requisição recebe, buffer
         offset ( first char to use from the array.), e o comprimento
         do objeto socket lido pelo buffer */

@@ -16,7 +16,7 @@ public class Servidor {
         System.out.println("Servidor ->");
 
         System.out.println(success);
-        ServerSocket serverSocket = new ServerSocket(90);
+        ServerSocket serverSocket = new ServerSocket(8080);
 
         while (true) {
             try {

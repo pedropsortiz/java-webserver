@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90c9e8a3-ac7d-4284-8048-325897ade8b2" name="Changes" comment="Bon Bus Voyage">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-webserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-webserver.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/Requisicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/Requisicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/server/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/server/Servidor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="useMavenConfig" value="true" />
       </MavenGeneralSettings>
     </option>
@@ -46,20 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Course/Sistemas Operacionais/Trabalhos/Trabalho 1/java-webserver",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Course/Sistemas Operacionais/Trabalhos/Trabalho 1/java-webserver&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Course\Sistemas Operacionais\Trabalhos\Trabalho 1\java-webserver" />
@@ -75,8 +78,8 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Servidor" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.server.Servidor" />
+    <configuration name="server.Servidor" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.Servidor" />
       <module name="java-webserver" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,7 +110,8 @@
       <workItem from="1659740975996" duration="609000" />
       <workItem from="1659741690616" duration="443000" />
       <workItem from="1659803195222" duration="617000" />
-      <workItem from="1659895617213" duration="5903000" />
+      <workItem from="1659895617213" duration="6803000" />
+      <workItem from="1659903609306" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Bon Bus Voyage">
       <created>1659741852532</created>

@@ -28,7 +28,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>main.java.server.Servidor</mainClass>
+                            <mainClass>server.Servidor</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
